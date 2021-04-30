@@ -1,0 +1,16 @@
+{
+  "name": "path-yu.github.io",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/path-yu/path-yu.github.io.git",
+  "author": "pathYu <1974675011@qq.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.5",
+    "typescript": "^4.2.4"
+  },
+  "scripts": {
+    "dev": "parcel index.html",
+    "build": "parcel build index.html"
+  }
+}
